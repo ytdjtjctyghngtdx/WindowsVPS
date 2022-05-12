@@ -1,2 +1,4 @@
 # WindowsVPS
-trying to run a free vps with github lol
+Hello!
+
+Use this if you wants to get a free "vps" on github!
