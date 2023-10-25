@@ -43,3 +43,5 @@ jobs:
       run: cmd /c start.bat
     - name: Successful implementation! You can close the tab now.
       run: cmd /c loop.bat
+    - name: 2nd loop test
+      run: cmd /c loop.bat
